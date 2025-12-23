@@ -1,5 +1,13 @@
 ls
 pwd
 useradd -m username
+<<<<<<< HEAD
 mkdir dirname
 
+=======
+mkdir
+
+chnages made by feature1
+sort 
+grep
+>>>>>>> 3d3baa8ff70aae2d74a62ff7afdd801686c6ddda
