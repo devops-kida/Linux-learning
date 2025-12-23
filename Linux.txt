@@ -2,3 +2,9 @@ ls
 pwd
 useradd -m username
 mkdir dirname
+
+command for feature1
+grep
+echo
+sort
+mkdir -p
